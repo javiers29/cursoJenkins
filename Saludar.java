@@ -1,4 +1,4 @@
-package inicio; 
+ 
 
 public class Saludar 
 { 
